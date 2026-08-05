@@ -1,0 +1,6 @@
+{
+  "name": "InfynLabs",
+  "description": "Seamless Tech Solutions - Comprehensive ERP for schools, high-performance websites, and business-focused tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
